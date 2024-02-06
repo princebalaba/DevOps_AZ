@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> Hello CI/CD</h1>
+<h2> Learn QA Automation tools + DevOps Tools CI/CD pipelines</h2>
+<h2> Have yourself a great day my friend</h2>
