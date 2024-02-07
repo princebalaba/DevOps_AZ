@@ -1,6 +1,7 @@
 # Maven
 # Build your Java project and run tests with Apache Maven.
 # Add steps that analyze code, save build artifacts, deploy, and more:
+# Doing it the Devops way --> hahaha 
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 
 trigger:
